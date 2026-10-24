@@ -40,8 +40,8 @@ Studying how data actually moves across a network by inspecting real traffic, no
 **Cybersecurity Home Lab** — `Kali Linux` `VirtualBox`
 A virtual machine environment for hands-on security practice.
 
-**Digital Logic Design**
-Foundations of how hardware represents and processes information.
+**Object-Oriented Programming** — `Java`
+Applying classes, inheritance, encapsulation, and polymorphism through hands-on Java projects.
 
 ### Tech & Tools
 
